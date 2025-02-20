@@ -6,7 +6,7 @@ export default function Hero() {
     <div className={`${styles.hero} flex gap-12 justify-center p-12`} id="hero">
       <div>
         <Image 
-            src={"./portifolio-photo.png"}
+            src={"/portifolio-photo.png"}
             alt=""
             width={1024}
             height={760}

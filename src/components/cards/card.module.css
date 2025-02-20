@@ -7,27 +7,27 @@
 }
 
 .calculator {
-    background-image: url("./calculator.jpg");
+    background-image: url("/calculator.jpg");
 }
 
 .easy {
-    background-image: url("./easy-bank.jpg");
+    background-image: url("/easy-bank.jpg");
 }
 
 .pokedex {
-    background-image: url("./pokedex.png");
+    background-image: url("/pokedex.png");
 }
 
 .guardioes {
-    background-image: url("./guardioes.png");
+    background-image: url("/guardioes.png");
 }
 
 .todo {
-    background-image: url("./todo-app.jpg");
+    background-image: url("/todo-app.jpg");
 }
 
 .loopstudio {
-    background-image: url("./loopstudios.jpg");
+    background-image: url("/loopstudios.jpg");
 }
 
 .cards {
