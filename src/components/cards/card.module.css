@@ -1,0 +1,41 @@
+.bg {
+    width: 300px;
+    height: 220px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.calculator {
+    background-image: url("./calculator.jpg");
+}
+
+.easy {
+    background-image: url("./easy-bank.jpg");
+}
+
+.pokedex {
+    background-image: url("./pokedex.png");
+}
+
+.guardioes {
+    background-image: url("./guardioes.png");
+}
+
+.todo {
+    background-image: url("./todo-app.jpg");
+}
+
+.loopstudio {
+    background-image: url("./loopstudios.jpg");
+}
+
+.cards {
+    width: 300px;
+    min-height: 400px;
+    transition: all .4s;
+}
+
+.cards:hover {
+    transform: translate(0px, -10px);
+}

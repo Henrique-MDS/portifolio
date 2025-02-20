@@ -1,0 +1,16 @@
+
+.tags {
+    transition: all .3s;
+}
+
+.tags:hover {
+    opacity: 0.2;
+}
+
+
+@media(max-width: 1100px){
+    .hero {
+        flex-direction: column;
+    }
+}
+

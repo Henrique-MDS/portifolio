@@ -1,0 +1,19 @@
+
+
+.certificates{
+    transition: all .4s;
+}
+
+.certificates:hover{
+    transform: translate(0px, -10px);
+}
+
+
+
+
+
+
+
+
+
+
