@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="flex flex-col gap-4 p-4 items-center">
         <div className={`${styles.certificates} flex items-center gap-4 bg-teal-500 cursor-pointer shadow-lg max-w-xl rounded-md p-1`}>
           <Image 
-            src={"/dev-web-icon.png"}
+            src={"/portifolio/dev-web-icon.png"}
             alt=""
             width={48}
             height={48}
@@ -20,7 +20,7 @@ export default function Footer() {
         </div>
         <div className={`${styles.certificates} flex items-center gap-4 bg-yellow-500 cursor-pointer shadow-lg max-w-xl rounded-md p-1`}>
           <Image 
-              src={"/algorithm-icon.png"}
+              src={"/portifolio/algorithm-icon.png"}
               alt=""
               width={48}
               height={48}
@@ -33,7 +33,7 @@ export default function Footer() {
       <div className="flex items-center gap-4 justify-center pt-8">
         <Link href={"https://github.com/Henrique-MDS"} rel="external" target="blank">
           <Image 
-            src={"/github-icon.png"}
+            src={"/portifolio/github-icon.png"}
             alt=""
             width={35}
             height={35}
@@ -41,7 +41,7 @@ export default function Footer() {
         </Link>
         <Link href={"https://www.linkedin.com/in/henrique-miguel-717383349/"} rel="external" target="blank">
         <Image 
-            src={"/linkedin-icon.png"}
+            src={"/portifolio/linkedin-icon.png"}
             alt=""
             width={35}
             height={35}
